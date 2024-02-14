@@ -31,5 +31,5 @@ setup(
     ],
     packages=["server"],
     include_package_data=True,
-    install_requires=["aiohttp", "py-cord"]
+    #install_requires=["aiohttp", "py-cord"]
 )
